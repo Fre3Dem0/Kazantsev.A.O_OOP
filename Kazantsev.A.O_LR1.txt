@@ -28,3 +28,9 @@
 8. Был создан второй коммит командой
 - $ git commit -m "Secondary commit"
 
+9. а) Был добавлен файл ignoreme.txt и .gitignore. В файл .gitignore была добавлена строка ignoreme.txt.
+       Данный файл игнорируется git'ом.
+   
+	
+
+
