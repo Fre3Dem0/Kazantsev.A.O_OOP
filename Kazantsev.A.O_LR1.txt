@@ -38,3 +38,5 @@
    в) Был создан и проиндексирован файл filewhosemustbedeleted.txt. Командой
 	- $ git rm -f deleteme.txt
        файл был удалён.
+   г) В этом же каталоге была создана новая директория newdir. Был создан и проиндексирован файл filewhosemustbemoved.txt. Командой
+	- $ git mv filewhosemustbemoved.txt newdir/
