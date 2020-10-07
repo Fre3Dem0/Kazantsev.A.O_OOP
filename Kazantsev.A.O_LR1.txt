@@ -58,3 +58,6 @@
 	- $ git branch ConflictBr    
     Была удалена ветка ConflictBr с помощью команды:
 	- $ git branch -d CoflictBr
+12. Было добавленно несколько строк в файл SecFile.txt, файл был спрятан с помощью команды:
+	- $ git stash
+    
