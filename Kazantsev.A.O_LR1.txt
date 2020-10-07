@@ -40,3 +40,5 @@
        файл был удалён.
    г) В этом же каталоге была создана новая директория newdir. Был создан и проиндексирован файл filewhosemustbemoved.txt. Командой
 	- $ git mv filewhosemustbemoved.txt newdir/
+13. Отмена сделанных изменений была вызвана командой
+	- $ git revert -m 1 HEAD
